@@ -9,6 +9,8 @@ dependencies:
   - pytorch
   - lightgbm
   - scikit-learn
+  - fair-esm
+  - transformers
   - xgboost
   - hyperopt
   - joblib
