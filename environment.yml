@@ -1,0 +1,23 @@
+name: lof-gof-prediction
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - jupyter
+  - pandas
+  - pytorch
+  - lightgbm
+  - scikit-learn
+  - xgboost
+  - hyperopt
+  - joblib
+  - matplotlib
+  - seaborn
+  - pandarallel
+  - tqdm
+  - numpy
+  - scipy
+  - pip
+  - pip:
+      - pandarallel
