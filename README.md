@@ -1,14 +1,14 @@
 # lof-gof-predictor
-Loss-of-function &amp; Gain-of-function classifier built on top of GLOF benchmark, also released in this repository.
+Loss-of-function &amp; Gain-of-function classifier built on top of the GLOF benchmark were also released in this repository.
 
-This repository related to the work: _still not published_
+This repository relates to the work: _still not published_
 
 
 ## Environment
 
 1. Have conda installed: https://conda.io/projects/conda/en/latest/user-guide/install/index.html
 
-2. Create a python virtual environment `conda env create -f environment.yml`
+2. Create a Python virtual environment `conda env create -f environment.yml`
 
 ## Download data
 
@@ -18,8 +18,8 @@ This repository related to the work: _still not published_
 
 ## Reproducing the experiment
 
-All experiments are listed under `ESM1v`, you might need to generate the embeddings using `Get ESM Embeddings.ipynb` and then proceeding to the `ESM1v/Training with ESM 1v.ipynb`. The plots reported in the study are under `ESM1v/EDA - ESM1v.ipynb`
+All experiments are listed under `ESM1v`; you might need to generate the embeddings using `Get ESM Embeddings.ipynb` and then proceed to the `ESM1v/Training with ESM 1v.ipynb`. The plots reported in the study are under `ESM1v/EDA - ESM1v.ipynb`
 
 ## Citation
 
-This will be filled after publication.
+This will be filled out after publication.
